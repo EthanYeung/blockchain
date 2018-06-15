@@ -16,8 +16,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:376px;
-  height:685px;
+  width:374px;
+  height:554px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
   border:none;
@@ -30,14 +30,14 @@
   position:absolute;
   left:300px;
   top:0px;
-  width:376px;
-  height:685px;
+  width:374px;
+  height:554px;
 }
 #u46 {
   position:absolute;
   left:2px;
-  top:334px;
-  width:372px;
+  top:269px;
+  width:370px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -201,8 +201,8 @@
 }
 #u61 {
   position:absolute;
-  left:302px;
-  top:631px;
+  left:300px;
+  top:500px;
   width:374px;
   height:54px;
   overflow:hidden;
